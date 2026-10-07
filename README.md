@@ -1,4 +1,4 @@
-# Gymnastics Training & Membership System - HSYD300-1 SA1
+# Gymnastics Training & Membership System 
 
 Modern web system developed for sports academy management adhering to Material Design principles.
 
